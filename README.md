@@ -1,4 +1,5 @@
 # GraphSAGE-for-Node-Classification
+所有代码可直接在Colab运行
 ## 一、数据集
 三类数据集：Cora, Citeseer, Pubmed
 |Items|	Cora	|Citeseer|	Pubmed|
@@ -58,7 +59,7 @@ Diabetes Mellitus Type 2
 
 ## 二、实现方法
 
-GraphSAGE（基于PYG）
+GraphSAGE
 
 ## 三、结果
 
