@@ -58,7 +58,7 @@ Diabetes Mellitus Type 2
 
 ## 二、实现方法
 
-GraphSAGE
+GraphSAGE（基于PYG）
 
 ## 三、结果
 
